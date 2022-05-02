@@ -1,0 +1,17 @@
+{
+    "name": "ramesh/google",
+    "description": "Description",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Ramesh\\Google\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramesh"
+        }
+    ],
+    "require": {}
+}
